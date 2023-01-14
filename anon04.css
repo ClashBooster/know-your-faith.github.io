@@ -1,0 +1,35 @@
+body{
+    background-image: url("depositphotos_1868091-stock-phot-way-ofA-faith.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+    padding:0;
+    justify-content: center;
+    align-content: center;
+}
+h1{
+    text-align: center;
+    background-color:black;
+    color:aliceblue;
+    font-size: 60px;
+}
+div{
+    height: 600px;
+    width: 490px;
+    float: left;
+    border: 2px;
+    background-color: red;
+    margin: 70px;
+    text-align: center;
+}
+button{
+    height: 590px;
+    width: 490px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+#boy{background-color:blue;color:aliceblue;border-radius:10px
+
+}
